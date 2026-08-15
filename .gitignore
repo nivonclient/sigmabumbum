@@ -2,8 +2,16 @@
 *.tmp
 session.lock
 
+# Ignore everything in server root
 /*
 
+# Keep selected mods
+!/mods/
+/mods/*
+!/mods/playit-minecraft-plugin.jar
+!/mods/Geyser-Spigot.jar
+
+# Keep required server files
 !/eula.txt
 !/git.sh
 !/installer.jar
