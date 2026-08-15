@@ -1,7 +1,3 @@
-# ==== JVM Memory ====
--Xms10G
--Xmx10G
-
 # ==== Aikar's G1GC flags (toi uu cho modded server) ====
 -XX:+UseG1GC
 -XX:+ParallelRefProcEnabled
