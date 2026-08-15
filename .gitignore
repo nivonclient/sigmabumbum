@@ -11,8 +11,12 @@ session.lock
 # Keep required server files
 !/eula.txt
 !/git.sh
-!/installer.jar
+!/server.jar
 !/README.md
 !/remove.sh
 !/start.sh
 !/user_jvm_args.txt
+!/user_jvm_args.txt
+!/server.properties
+!/purpur.yml
+!/usercache.json
