@@ -7,9 +7,6 @@ session.lock
 
 # Keep selected plugins
 !/plugins/
-/plugins/*
-!/plugins/playit-minecraft-plugin.jar
-!/plugins/Geyser-Spigot.jar
 
 # Keep required server files
 !/eula.txt
