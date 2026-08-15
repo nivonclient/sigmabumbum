@@ -1,3 +1,13 @@
 *.neoforge-tmp
 *.tmp
 session.lock
+
+/*
+
+!/eula.txt
+!/git.sh
+!/installer.jar
+!/README.md
+!/remove.sh
+!/start.sh
+!/user_jvm_args.txt
