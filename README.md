@@ -9,8 +9,8 @@
 => chmod +x bum.sh && ./bum.sh
 
 + dùng khi muốn mở thủ công:
-1. chmod +x download.sh remove.sh git.sh   # bước đệm
-2. ./download.sh -p mod.mrpack -j 67       # tải mod
+1. chmod +x remove.sh git.sh   # bước đệm
+2. 
 3. ./remove.sh -f remlist.txt -d ./mods    # xóa mod lỗi/không cần thiết
 4. java -jar installer.jar                 # tải hệ thống
 5. chmod +x start.sh                       # bước đệm khác
