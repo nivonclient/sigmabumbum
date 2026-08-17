@@ -1,111 +1,101 @@
 Starting org.bukkit.craftbukkit.Main
-2026-08-17T09:49:10.652921255Z ServerMain WARN Advanced terminal features are not available in this environment
-[09:49:11 INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.2+10-LTS; Microsoft Microsoft-13053558) on Linux 6.8.0-1052-azure (amd64)
-[09:49:11 INFO]: [bootstrap] Loading Purpur 26.2-2620-HEAD@8762b2f (2026-08-09T02:33:45Z) for Minecraft 26.2
-[09:49:11 INFO]: [PluginInitializerManager] Initializing plugins...
-[09:49:12 INFO]: [PluginInitializerManager] Initialized 5 plugins
-[09:49:12 INFO]: [PluginInitializerManager] Bukkit plugins (5):
+2026-08-17T12:24:05.443482787Z ServerMain WARN Advanced terminal features are not available in this environment
+[12:24:05 INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.2+10-LTS; Microsoft Microsoft-13053558) on Linux 6.8.0-1052-azure (amd64)
+[12:24:05 INFO]: [bootstrap] Loading Purpur 26.2-2620-HEAD@8762b2f (2026-08-09T02:33:45Z) for Minecraft 26.2
+[12:24:06 INFO]: [PluginInitializerManager] Initializing plugins...
+[12:24:06 INFO]: [PluginInitializerManager] Initialized 5 plugins
+[12:24:06 INFO]: [PluginInitializerManager] Bukkit plugins (5):
  - Chunky (1.5.3), Geyser-Spigot (2.11.1-SNAPSHOT), PatPatPlugin (1.2.5+0268419), floodgate (2.2.5-SNAPSHOT (b140-8780fa4)), voicechat (2.6.21)
 WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
 WARNING: sun.misc.Unsafe::objectFieldOffset has been called by org.joml.MemUtil$MemUtilUnsafe (file:/workspaces/sigmabumbum/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar)
 WARNING: Please consider reporting this to the maintainers of class org.joml.MemUtil$MemUtilUnsafe
 WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
-[09:49:16 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[09:49:16 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[09:49:17 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 798.1ms
-[09:49:19 INFO]: Loaded 1585 recipes
-[09:49:19 INFO]: Loaded 1688 advancements
-[09:49:20 INFO]: Starting minecraft server version 26.2
-[09:49:20 INFO]: Loading properties
-[09:49:20 INFO]: This server is running Purpur version 26.2-2620-HEAD@8762b2f (2026-08-09T02:33:45Z) (Implementing API version 26.2.build.2620-stable)
-[09:49:20 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[09:49:20 INFO]: Server Ping Player Sample Count: 12
-[09:49:20 INFO]: Using 4 threads for Netty based IO
-[09:49:21 INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[09:49:21 INFO]: Default game type: SURVIVAL
-[09:49:21 INFO]: Generating keypair
-[09:49:21 INFO]: Starting Minecraft server on *:25565
-[09:49:21 INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[09:49:21 INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[09:49:21 INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
-[09:49:22 WARN]: [floodgate] en_ is not a supported Floodgate language.
-[09:49:22 INFO]: [floodgate] Took 589ms to boot Floodgate
-[09:49:22 INFO]: [voicechat] Loading server plugin voicechat v2.6.21
-[09:49:22 INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.11.1-SNAPSHOT
-[09:49:22 INFO]: [Geyser-Spigot] Loading extensions...
-[09:49:22 INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[09:49:22 INFO]: [PatPatPlugin] Loading server plugin PatPatPlugin v1.2.5+0268419
-[09:49:22 INFO]: [Chunky] Loading server plugin Chunky v1.5.3
-[09:49:22 WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:49:22 WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:49:22 WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:49:22 WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:49:22 INFO]: Preparing level "world"
-[09:49:23 INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
-[09:49:23 INFO]: Preparing spawn area: 100%
-[09:49:23 INFO]: Prepared spawn area in 1 ms
-[09:49:23 INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
-[09:49:23 INFO]: Prepared spawn area in 5 ms
-[09:49:23 INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
-[09:49:23 INFO]: Preparing spawn area: 100%
-[09:49:23 INFO]: Prepared spawn area in 5 ms
-[09:49:23 INFO]: Done preparing level "world" (0.667s)
-[09:49:23 INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
-[09:49:23 INFO]: [voicechat] Enabling voicechat v2.6.21
-[09:49:23 INFO]: [voicechat] Initializing compatibility for version 26.2.build.2620-stable
-[09:49:23 INFO]: [voicechat] Compatibility version 20
-[09:49:23 INFO]: [voicechat] Successfully initialized commodore command completion
-[09:49:23 INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.11.1-SNAPSHOT
-[09:49:25 INFO]: [PatPatPlugin] Enabling PatPatPlugin v1.2.5+0268419
-[09:49:25 INFO]: [patpat-plugin] Plugin started
-[09:49:25 INFO]: [Chunky] Enabling Chunky v1.5.3
-[09:49:25 INFO]: [spark] Starting background profiler...
-[09:49:26 INFO]: [Geyser-Spigot] ******************************************
-[09:49:26 INFO]: [Geyser-Spigot] 
-[09:49:26 INFO]: [Geyser-Spigot] Loading Geyser version 2.11.1-b1223 (git-master-85fb46f)
-[09:49:26 INFO]: [Geyser-Spigot] 
-[09:49:26 INFO]: [Geyser-Spigot] ******************************************
-[09:49:28 INFO]: [Geyser-Spigot] Registered 199 custom block overrides.
-[09:49:28 INFO]: [Geyser-Spigot] Registered 2 custom block item overrides.
-[09:49:28 INFO]: [Geyser-Spigot] Registered 7 custom blocks.
-[09:49:31 INFO]: [Geyser-Spigot] Registered 1 custom items
-[09:49:31 INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[09:49:31 INFO]: [Geyser-Spigot] Done (4.944s)! Run /geyser help for help!
-[09:49:31 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09:49:31 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09:49:31 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09:49:31 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:49:31 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:49:31 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:49:31 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[09:49:31 INFO]: Running delayed init tasks
-[09:49:31 INFO]: Done (22.871s)! For help, type "help"
-[09:49:31 INFO]: [voicechat] Loading plugins
-[09:49:31 INFO]: [voicechat] Loaded 0 plugin(s)
-[09:49:31 INFO]: [voicechat] Initializing plugins
-[09:49:31 INFO]: [voicechat] Initialized 0 plugin(s)
-[09:49:31 WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[09:49:31 INFO]: [voicechat] Voice chat server started at port 24454
-[09:54:33 INFO]: Automatic saving is now disabled
-[09:54:33 INFO]: Saving the game (this may take a moment!)
-[09:54:33 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:54:33 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:54:33 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:54:33 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[09:54:33 INFO]: Saved the game
-[09:54:40 INFO]: Automatic saving is now enabled
-[09:59:40 INFO]: Automatic saving is now disabled
-[09:59:40 INFO]: Saving the game (this may take a moment!)
-[09:59:40 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:59:40 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:59:40 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:59:40 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[09:59:40 INFO]: Saved the game
-[09:59:46 INFO]: Automatic saving is now enabled
-[10:04:46 INFO]: Automatic saving is now disabled
-[10:04:46 INFO]: Saving the game (this may take a moment!)
-[10:04:46 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:04:46 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:04:46 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:04:46 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[10:04:46 INFO]: Saved the game
+[12:24:11 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[12:24:11 INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[12:24:12 INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 833.1ms
+[12:24:14 INFO]: Loaded 1585 recipes
+[12:24:14 INFO]: Loaded 1688 advancements
+[12:24:14 INFO]: Starting minecraft server version 26.2
+[12:24:14 INFO]: Loading properties
+[12:24:14 INFO]: This server is running Purpur version 26.2-2620-HEAD@8762b2f (2026-08-09T02:33:45Z) (Implementing API version 26.2.build.2620-stable)
+[12:24:14 INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[12:24:14 INFO]: Server Ping Player Sample Count: 12
+[12:24:14 INFO]: Using 4 threads for Netty based IO
+[12:24:15 INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[12:24:15 INFO]: Default game type: SURVIVAL
+[12:24:15 INFO]: Generating keypair
+[12:24:15 INFO]: Starting Minecraft server on *:25565
+[12:24:15 INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[12:24:15 INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[12:24:16 INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
+[12:24:17 WARN]: [floodgate] en_ is not a supported Floodgate language.
+[12:24:17 INFO]: [floodgate] Took 1,233ms to boot Floodgate
+[12:24:17 INFO]: [voicechat] Loading server plugin voicechat v2.6.21
+[12:24:17 INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.11.1-SNAPSHOT
+[12:24:18 INFO]: [Geyser-Spigot] Loading extensions...
+[12:24:18 INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[12:24:18 INFO]: [PatPatPlugin] Loading server plugin PatPatPlugin v1.2.5+0268419
+[12:24:18 INFO]: [Chunky] Loading server plugin Chunky v1.5.3
+[12:24:18 WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:24:18 WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:24:18 WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:24:18 WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:24:18 INFO]: Preparing level "world"
+[12:24:19 INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[12:24:19 INFO]: Preparing spawn area: 100%
+[12:24:19 INFO]: Prepared spawn area in 3 ms
+[12:24:19 INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[12:24:19 INFO]: Preparing spawn area: 100%
+[12:24:19 INFO]: Prepared spawn area in 2 ms
+[12:24:19 INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[12:24:19 INFO]: Preparing spawn area: 100%
+[12:24:19 INFO]: Prepared spawn area in 1 ms
+[12:24:19 INFO]: Done preparing level "world" (0.728s)
+[12:24:19 INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
+[12:24:19 INFO]: [voicechat] Enabling voicechat v2.6.21
+[12:24:19 INFO]: [voicechat] Initializing compatibility for version 26.2.build.2620-stable
+[12:24:19 INFO]: [voicechat] Compatibility version 20
+[12:24:19 INFO]: [voicechat] Successfully initialized commodore command completion
+[12:24:19 INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.11.1-SNAPSHOT
+[12:24:21 INFO]: [PatPatPlugin] Enabling PatPatPlugin v1.2.5+0268419
+[12:24:21 INFO]: [patpat-plugin] Plugin started
+[12:24:21 INFO]: [Chunky] Enabling Chunky v1.5.3
+[12:24:21 INFO]: [spark] Starting background profiler...
+[12:24:23 INFO]: [Geyser-Spigot] ******************************************
+[12:24:23 INFO]: [Geyser-Spigot] 
+[12:24:23 INFO]: [Geyser-Spigot] Loading Geyser version 2.11.1-b1223 (git-master-85fb46f)
+[12:24:23 INFO]: [Geyser-Spigot] 
+[12:24:23 INFO]: [Geyser-Spigot] ******************************************
+[12:24:24 INFO]: [Geyser-Spigot] Registered 199 custom block overrides.
+[12:24:24 INFO]: [Geyser-Spigot] Registered 2 custom block item overrides.
+[12:24:24 INFO]: [Geyser-Spigot] Registered 7 custom blocks.
+[12:24:27 INFO]: [Geyser-Spigot] Registered 1 custom items
+[12:24:27 INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[12:24:27 INFO]: [Geyser-Spigot] Done (4.373s)! Run /geyser help for help!
+[12:24:28 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:24:28 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:24:28 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:24:28 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:24:28 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:24:28 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:24:28 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:24:28 INFO]: Running delayed init tasks
+[12:24:28 INFO]: Done (24.243s)! For help, type "help"
+[12:24:28 INFO]: [voicechat] Loading plugins
+[12:24:28 INFO]: [voicechat] Loaded 0 plugin(s)
+[12:24:28 INFO]: [voicechat] Initializing plugins
+[12:24:28 INFO]: [voicechat] Initialized 0 plugin(s)
+[12:24:28 WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[12:24:28 INFO]: [voicechat] Voice chat server started at port 24454
+[12:25:47 INFO]: UUID of player trong0228 is ee71da15-bd7d-3f80-ae0e-0760f2feb2d3
+[12:25:49 INFO]: [38;2;255;255;85mtrong0228 joined the game[0m
+[12:25:49 INFO]: trong0228[/127.128.82.50:52905] logged in with entity id 63 at ([minecraft:overworld]605.6514186581857, 66.875, -398.74702982024075)
+[12:25:50 INFO]: [voicechat] Received secret request of trong0228 (20)
+[12:25:50 INFO]: [voicechat] Sent secret to trong0228
+[12:29:28 INFO]: Automatic saving is now disabled
+[12:29:28 INFO]: Saving the game (this may take a moment!)
+[12:29:30 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:29:30 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:29:30 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:29:30 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:29:30 INFO]: Saved the game
