@@ -1,20 +1,36 @@
 {
   "stats": {
+    "minecraft:mined": {
+      "minecraft:dead_bush": 9
+    },
+    "minecraft:used": {
+      "minecraft:cooked_beef": 1,
+      "minecraft:bread": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:stick": 8,
+      "minecraft:cooked_beef": 1,
+      "minecraft:bread": 27
+    },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 1719,
-      "minecraft:walk_one_cm": 2430,
-      "minecraft:walk_under_water_one_cm": 215,
-      "minecraft:damage_taken": 50,
-      "minecraft:play_time": 1719,
-      "minecraft:jump": 63,
-      "minecraft:time_since_death": 1719,
-      "minecraft:sprint_one_cm": 11302,
-      "minecraft:fall_one_cm": 1125,
-      "minecraft:swim_one_cm": 2473,
-      "minecraft:total_world_time": 1719,
-      "minecraft:fly_one_cm": 15474,
-      "minecraft:walk_on_water_one_cm": 481,
-      "minecraft:sneak_time": 11
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 7107,
+      "minecraft:walk_one_cm": 22880,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 1292,
+      "minecraft:damage_taken": 210,
+      "minecraft:boat_one_cm": 16406,
+      "minecraft:play_time": 7107,
+      "minecraft:damage_dealt": 159,
+      "minecraft:jump": 184,
+      "minecraft:time_since_death": 7107,
+      "minecraft:sprint_one_cm": 27058,
+      "minecraft:fall_one_cm": 3375,
+      "minecraft:swim_one_cm": 6284,
+      "minecraft:total_world_time": 7107,
+      "minecraft:fly_one_cm": 34791,
+      "minecraft:walk_on_water_one_cm": 9873,
+      "minecraft:sneak_time": 45
     }
   },
   "DataVersion": 4903
