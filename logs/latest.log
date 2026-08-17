@@ -142,3 +142,16 @@
 [14:09:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [14:09:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
 [14:09:28] [Server thread/INFO]: Saved the game
+[14:09:37] [Server thread/INFO]: Automatic saving is now enabled
+[14:13:47] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Kurokyubi9779 has disconnected from the Java server because of Bedrock client disconnected
+[14:13:47] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Kurokyubi9779 disconnected
+[14:13:48] [Server thread/INFO]: .Kurokyubi9779 lost connection: Disconnected
+[14:13:48] [Server thread/INFO]: [voicechat] Disconnecting client .Kurokyubi9779
+[14:13:48] [Server thread/INFO]: .Kurokyubi9779 left the game
+[14:14:37] [Server thread/INFO]: Automatic saving is now disabled
+[14:14:37] [Server thread/INFO]: Saving the game (this may take a moment!)
+[14:14:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:14:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:14:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:14:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:14:38] [Server thread/INFO]: Saved the game
