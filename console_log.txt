@@ -115,3 +115,12 @@ WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
 [12:40:03 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [12:40:03 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
 [12:40:03 INFO]: Saved the game
+[12:40:16 INFO]: Automatic saving is now enabled
+[12:44:16 INFO]: trong0228 has made the advancement [38;2;85;255;85m[Best Friends Forever][0m
+[12:45:16 INFO]: Automatic saving is now disabled
+[12:45:16 INFO]: Saving the game (this may take a moment!)
+[12:45:18 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:45:18 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:45:18 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:45:18 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:45:18 INFO]: Saved the game
