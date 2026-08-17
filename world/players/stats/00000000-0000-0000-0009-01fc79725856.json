@@ -1,46 +1,46 @@
 {
   "stats": {
-    "minecraft:killed": {
-      "minecraft:zombie": 2
+    "minecraft:mined": {
+      "minecraft:sand": 12,
+      "minecraft:red_sand": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 404,
+      "minecraft:walk_one_cm": 71816,
+      "minecraft:leave_game": 3,
+      "minecraft:mob_kills": 2,
+      "minecraft:walk_under_water_one_cm": 218,
+      "minecraft:damage_taken": 2032,
+      "minecraft:damage_dealt": 566,
+      "minecraft:play_time": 28852,
+      "minecraft:jump": 641,
+      "minecraft:time_since_death": 384,
+      "minecraft:sprint_one_cm": 39985,
+      "minecraft:fall_one_cm": 20135,
+      "minecraft:swim_one_cm": 6327,
+      "minecraft:total_world_time": 28852,
+      "minecraft:fly_one_cm": 87670,
+      "minecraft:walk_on_water_one_cm": 4924,
+      "minecraft:deaths": 8,
+      "minecraft:player_kills": 1
     },
     "minecraft:picked_up": {
       "minecraft:sand": 13,
       "minecraft:red_sand": 1,
       "minecraft:rotten_flesh": 1
     },
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 3944,
-      "minecraft:walk_one_cm": 71788,
-      "minecraft:leave_game": 2,
-      "minecraft:mob_kills": 2,
-      "minecraft:walk_under_water_one_cm": 218,
-      "minecraft:damage_taken": 1907,
-      "minecraft:damage_dealt": 566,
-      "minecraft:play_time": 28043,
-      "minecraft:jump": 641,
-      "minecraft:time_since_death": 3924,
-      "minecraft:sprint_one_cm": 39985,
-      "minecraft:fall_one_cm": 20135,
-      "minecraft:swim_one_cm": 6327,
-      "minecraft:total_world_time": 28043,
-      "minecraft:fly_one_cm": 87670,
-      "minecraft:walk_on_water_one_cm": 4924,
-      "minecraft:deaths": 7,
-      "minecraft:player_kills": 1
+    "minecraft:killed_by": {
+      "minecraft:parched": 1,
+      "minecraft:husk": 4,
+      "minecraft:zombie": 2
     },
     "minecraft:used": {
       "minecraft:red_sand": 1,
       "minecraft:sand": 8,
       "minecraft:rotten_flesh": 1
     },
-    "minecraft:killed_by": {
-      "minecraft:parched": 1,
-      "minecraft:husk": 4,
-      "minecraft:zombie": 1
-    },
-    "minecraft:mined": {
-      "minecraft:sand": 12,
-      "minecraft:red_sand": 1
+    "minecraft:killed": {
+      "minecraft:zombie": 2
     }
   },
   "DataVersion": 4903
