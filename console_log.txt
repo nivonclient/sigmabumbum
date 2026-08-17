@@ -256,3 +256,24 @@ WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
 [13:11:25 INFO]: [38;2;255;255;85mDeX_The_Adudu left the game[0m
 [13:12:36 INFO]: Automatic saving is now disabled
 [13:12:36 INFO]: Saving the game (this may take a moment!)
+[13:12:39 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:12:39 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:12:39 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:12:39 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:12:39 INFO]: Saved the game
+[13:13:28 INFO]: Automatic saving is now enabled
+[13:14:41 INFO]: UUID of player DeX_The_Adudu is 11106124-a3fb-39b3-9579-7f01c4ed18e7
+[13:14:42 INFO]: [38;2;255;255;85mDeX_The_Adudu joined the game[0m
+[13:14:42 INFO]: DeX_The_Adudu[/127.157.96.80:47221] logged in with entity id 30950 at ([minecraft:overworld]700.5081640903184, 63.0, 331.6112562892594)
+[13:14:54 INFO]: DeX_The_Adudu has made the advancement [38;2;85;255;85m[Diamonds!][0m
+[13:15:12 INFO]: DeX_The_Adudu has made the advancement [38;2;85;255;85m[Cover Me with Diamonds][0m
+[13:18:02 INFO]: DeX_The_Adudu lost connection: Disconnected
+[13:18:02 INFO]: [voicechat] Disconnecting client DeX_The_Adudu
+[13:18:02 INFO]: [38;2;255;255;85mDeX_The_Adudu left the game[0m
+[13:18:28 INFO]: Automatic saving is now disabled
+[13:18:28 INFO]: Saving the game (this may take a moment!)
+[13:18:29 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:18:29 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:18:29 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:18:29 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:18:29 INFO]: Saved the game

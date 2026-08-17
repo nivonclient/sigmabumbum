@@ -1,36 +1,51 @@
 {
   "stats": {
     "minecraft:mined": {
+      "minecraft:crafting_table": 1,
       "minecraft:dead_bush": 9
+    },
+    "minecraft:crafted": {
+      "minecraft:diamond_boots": 1,
+      "minecraft:diamond_axe": 1,
+      "minecraft:diamond_pickaxe": 1,
+      "minecraft:diamond_helmet": 1,
+      "minecraft:diamond_chestplate": 1,
+      "minecraft:diamond_sword": 1,
+      "minecraft:diamond_leggings": 1
     },
     "minecraft:used": {
       "minecraft:cooked_beef": 1,
-      "minecraft:bread": 2
+      "minecraft:diamond_axe": 1,
+      "minecraft:bread": 6,
+      "minecraft:diamond_sword": 6
     },
     "minecraft:picked_up": {
-      "minecraft:stick": 8,
+      "minecraft:stick": 42,
       "minecraft:cooked_beef": 1,
+      "minecraft:diamond": 32,
+      "minecraft:crafting_table": 1,
       "minecraft:bread": 27
     },
     "minecraft:custom": {
-      "minecraft:interact_with_crafting_table": 1,
-      "minecraft:time_since_rest": 7107,
-      "minecraft:walk_one_cm": 22880,
-      "minecraft:leave_game": 1,
+      "minecraft:interact_with_crafting_table": 3,
+      "minecraft:time_since_rest": 11118,
+      "minecraft:walk_one_cm": 35003,
+      "minecraft:leave_game": 2,
       "minecraft:walk_under_water_one_cm": 1292,
-      "minecraft:damage_taken": 210,
+      "minecraft:damage_taken": 310,
+      "minecraft:damage_dealt": 281,
       "minecraft:boat_one_cm": 16406,
-      "minecraft:play_time": 7107,
-      "minecraft:damage_dealt": 159,
-      "minecraft:jump": 184,
-      "minecraft:time_since_death": 7107,
-      "minecraft:sprint_one_cm": 27058,
-      "minecraft:fall_one_cm": 3375,
+      "minecraft:play_time": 11118,
+      "minecraft:jump": 290,
+      "minecraft:time_since_death": 11118,
+      "minecraft:sprint_one_cm": 43647,
+      "minecraft:fall_one_cm": 8744,
       "minecraft:swim_one_cm": 6284,
-      "minecraft:total_world_time": 7107,
-      "minecraft:fly_one_cm": 34791,
-      "minecraft:walk_on_water_one_cm": 9873,
-      "minecraft:sneak_time": 45
+      "minecraft:total_world_time": 11118,
+      "minecraft:fly_one_cm": 58199,
+      "minecraft:walk_on_water_one_cm": 9952,
+      "minecraft:crouch_one_cm": 106,
+      "minecraft:sneak_time": 82
     }
   },
   "DataVersion": 4903
