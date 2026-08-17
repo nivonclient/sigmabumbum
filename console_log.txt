@@ -132,3 +132,19 @@ WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
 [14:04:18 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [14:04:18 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
 [14:04:18 INFO]: Saved the game
+[14:04:27 INFO]: Automatic saving is now enabled
+[14:08:33 INFO]: UUID of player DeX_The_Adudu is 11106124-a3fb-39b3-9579-7f01c4ed18e7
+[14:08:34 INFO]: [38;2;255;255;85mDeX_The_Adudu joined the game[0m
+[14:08:34 INFO]: DeX_The_Adudu[/127.157.96.80:42129] logged in with entity id 1911 at ([minecraft:overworld]672.5724084016113, 83.0, 268.15432680254094)
+[14:09:00 INFO]: [Geyser-Spigot] Player connected with username Kurokyubi9779 (1001)
+[14:09:00 INFO]: [Geyser-Spigot] Kurokyubi9779 (logged in as: Kurokyubi9779) has connected to the Java server
+[14:09:00 INFO]: [floodgate] Floodgate player logged in as .Kurokyubi9779 joined (UUID: 00000000-0000-0000-0009-01fc79725856)
+[14:09:00 INFO]: [38;2;255;255;85m.Kurokyubi9779 joined the game[0m
+[14:09:00 INFO]: .Kurokyubi9779[/127.155.183.94:0] logged in with entity id 1960 at ([minecraft:overworld]367.5, 67.0, 248.5)
+[14:09:27 INFO]: Automatic saving is now disabled
+[14:09:27 INFO]: Saving the game (this may take a moment!)
+[14:09:28 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:09:28 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:09:28 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:09:28 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:09:28 INFO]: Saved the game
