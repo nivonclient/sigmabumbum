@@ -300,3 +300,13 @@ WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
 [13:29:03 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [13:29:03 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
 [13:29:03 INFO]: Saved the game
+[13:29:20 INFO]: Automatic saving is now enabled
+[13:29:22 INFO]: DeX_The_Adudu has made the advancement [38;2;85;255;85m[Monster Hunter][0m
+[13:32:10 INFO]: Duy022802 has made the advancement [38;2;85;255;85m[Who Needs Rockets?][0m
+[13:34:20 INFO]: Automatic saving is now disabled
+[13:34:20 INFO]: Saving the game (this may take a moment!)
+[13:34:20 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:34:20 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:34:20 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:34:20 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:34:20 INFO]: Saved the game
