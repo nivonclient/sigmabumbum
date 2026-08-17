@@ -119,3 +119,30 @@ To https://github.com/nivonclient/sigmabumbum
 [BACKUP] Ket thuc luc 12:56:24
 ----------------------------------------
 [BACKUP] Bat dau luc 2026-08-17 13:01:24
+[main eedf534] Auto backup 2026-08-17 13:01:28
+ 47 files changed, 48 insertions(+), 22 deletions(-)
+ create mode 100644 world/dimensions/minecraft/overworld/entities/r.-3.3.mca
+ create mode 100644 world/dimensions/minecraft/overworld/entities/r.-3.4.mca
+ create mode 100644 world/dimensions/minecraft/overworld/entities/r.-3.5.mca
+ create mode 100644 world/dimensions/minecraft/overworld/entities/r.-4.4.mca
+ create mode 100644 world/dimensions/minecraft/overworld/entities/r.-4.5.mca
+ create mode 100644 world/dimensions/minecraft/overworld/poi/r.-3.4.mca
+ create mode 100644 world/dimensions/minecraft/overworld/poi/r.-3.5.mca
+ create mode 100644 world/dimensions/minecraft/overworld/poi/r.-4.4.mca
+ create mode 100644 world/dimensions/minecraft/overworld/poi/r.-4.5.mca
+ create mode 100644 world/dimensions/minecraft/overworld/region/r.-2.5.mca
+ create mode 100644 world/dimensions/minecraft/overworld/region/r.-3.4.mca
+ create mode 100644 world/dimensions/minecraft/overworld/region/r.-3.5.mca
+ create mode 100644 world/dimensions/minecraft/overworld/region/r.-4.3.mca
+ create mode 100644 world/dimensions/minecraft/overworld/region/r.-4.4.mca
+ create mode 100644 world/dimensions/minecraft/overworld/region/r.-4.5.mca
+To https://github.com/nivonclient/sigmabumbum
+   4dc9f4c..eedf534  main -> main
+[BACKUP] Thanh cong
+[BACKUP] Ket thuc luc 13:01:50
+----------------------------------------
+[BACKUP] Bat dau luc 2026-08-17 13:06:50
+[GIT] add loi (lan 1), thu lai sau 2s...
+fatal: confused by unstable object source data for 4de0b4aff4967752ff3b7f73f8bf2d18c1ca70ba
+[GIT] add loi (lan 2), thu lai sau 4s...
+fatal: confused by unstable object source data for 3463f393a46abfd60d3642b511b0938c45a02ec2
