@@ -277,3 +277,14 @@ WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
 [13:18:29 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [13:18:29 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
 [13:18:29 INFO]: Saved the game
+[13:18:51 INFO]: Automatic saving is now enabled
+[13:19:43 INFO]: UUID of player DeX_The_Adudu is 11106124-a3fb-39b3-9579-7f01c4ed18e7
+[13:19:44 INFO]: [38;2;255;255;85mDeX_The_Adudu joined the game[0m
+[13:19:44 INFO]: DeX_The_Adudu[/127.157.96.80:54603] logged in with entity id 32165 at ([minecraft:overworld]701.0593438152971, 64.0, 344.1386571178541)
+[13:23:51 INFO]: Automatic saving is now disabled
+[13:23:51 INFO]: Saving the game (this may take a moment!)
+[13:23:51 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:23:51 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:23:51 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:23:51 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:23:51 INFO]: Saved the game

@@ -16,8 +16,8 @@
     "minecraft:used": {
       "minecraft:cooked_beef": 1,
       "minecraft:diamond_axe": 1,
-      "minecraft:bread": 6,
-      "minecraft:diamond_sword": 6
+      "minecraft:bread": 11,
+      "minecraft:diamond_sword": 15
     },
     "minecraft:picked_up": {
       "minecraft:stick": 42,
@@ -28,24 +28,24 @@
     },
     "minecraft:custom": {
       "minecraft:interact_with_crafting_table": 3,
-      "minecraft:time_since_rest": 11118,
-      "minecraft:walk_one_cm": 35003,
+      "minecraft:time_since_rest": 16056,
+      "minecraft:walk_one_cm": 45413,
       "minecraft:leave_game": 2,
       "minecraft:walk_under_water_one_cm": 1292,
-      "minecraft:damage_taken": 310,
-      "minecraft:damage_dealt": 281,
+      "minecraft:damage_taken": 622,
+      "minecraft:damage_dealt": 470,
       "minecraft:boat_one_cm": 16406,
-      "minecraft:play_time": 11118,
-      "minecraft:jump": 290,
-      "minecraft:time_since_death": 11118,
-      "minecraft:sprint_one_cm": 43647,
-      "minecraft:fall_one_cm": 8744,
+      "minecraft:play_time": 16056,
+      "minecraft:jump": 384,
+      "minecraft:time_since_death": 16056,
+      "minecraft:sprint_one_cm": 49025,
+      "minecraft:fall_one_cm": 11444,
       "minecraft:swim_one_cm": 6284,
-      "minecraft:total_world_time": 11118,
-      "minecraft:fly_one_cm": 58199,
+      "minecraft:total_world_time": 16056,
+      "minecraft:fly_one_cm": 72259,
       "minecraft:walk_on_water_one_cm": 9952,
       "minecraft:crouch_one_cm": 106,
-      "minecraft:sneak_time": 82
+      "minecraft:sneak_time": 91
     }
   },
   "DataVersion": 4903
