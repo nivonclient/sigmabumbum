@@ -1,0 +1,65 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:stick": 5
+    },
+    "minecraft:killed": {
+      "minecraft:spider": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:orange_terracotta": 2,
+      "minecraft:string": 2,
+      "minecraft:stick": 83,
+      "minecraft:sand": 74,
+      "minecraft:sugar_cane": 8,
+      "minecraft:gravel": 1,
+      "minecraft:red_sand": 53,
+      "minecraft:spider_eye": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 193,
+      "minecraft:walk_one_cm": 162129,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 5844,
+      "minecraft:damage_taken": 2304,
+      "minecraft:damage_dealt": 381,
+      "minecraft:play_time": 43231,
+      "minecraft:jump": 603,
+      "minecraft:time_since_death": 173,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 51396,
+      "minecraft:fall_one_cm": 15228,
+      "minecraft:swim_one_cm": 30693,
+      "minecraft:total_world_time": 43231,
+      "minecraft:fly_one_cm": 48149,
+      "minecraft:walk_on_water_one_cm": 12597,
+      "minecraft:crouch_one_cm": 687,
+      "minecraft:sneak_time": 1245,
+      "minecraft:deaths": 9
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 1,
+      "minecraft:creeper": 1,
+      "minecraft:husk": 2,
+      "minecraft:zombie": 2
+    },
+    "minecraft:used": {
+      "minecraft:red_sand": 2,
+      "minecraft:sand": 8,
+      "minecraft:spider_eye": 1
+    },
+    "minecraft:mined": {
+      "minecraft:gravel": 1,
+      "minecraft:sand": 58,
+      "minecraft:seagrass": 1,
+      "minecraft:tall_dry_grass": 10,
+      "minecraft:fire_coral_wall_fan": 1,
+      "minecraft:short_dry_grass": 3,
+      "minecraft:red_sand": 44,
+      "minecraft:dead_bush": 85,
+      "minecraft:sugar_cane": 3
+    }
+  },
+  "DataVersion": 4903
+}

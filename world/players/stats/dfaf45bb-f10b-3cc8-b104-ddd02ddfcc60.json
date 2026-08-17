@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:sand": 1,
+      "minecraft:stick": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:stick": 9,
+      "minecraft:sand": 15
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 609,
+      "minecraft:walk_one_cm": 23216,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 941,
+      "minecraft:damage_taken": 2344,
+      "minecraft:damage_dealt": 713,
+      "minecraft:play_time": 44080,
+      "minecraft:jump": 796,
+      "minecraft:time_since_death": 589,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 69514,
+      "minecraft:fall_one_cm": 30794,
+      "minecraft:swim_one_cm": 10059,
+      "minecraft:total_world_time": 44080,
+      "minecraft:fly_one_cm": 183713,
+      "minecraft:walk_on_water_one_cm": 7655,
+      "minecraft:sneak_time": 2,
+      "minecraft:deaths": 9
+    },
+    "minecraft:used": {
+      "minecraft:sand": 6
+    },
+    "minecraft:killed_by": {
+      "minecraft:parched": 1,
+      "minecraft:player": 1,
+      "minecraft:creeper": 1,
+      "minecraft:drowned": 1,
+      "minecraft:husk": 2,
+      "minecraft:zombie": 2
+    },
+    "minecraft:mined": {
+      "minecraft:sand": 5,
+      "minecraft:dead_bush": 8
+    }
+  },
+  "DataVersion": 4903
+}

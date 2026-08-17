@@ -10,11 +10,13 @@
 
 + dùng khi muốn mở thủ công:
 1. chmod +x remove.sh git.sh   # bước đệm
-2. 
+2. curl -fsSL https://packages.playit.gg/install.sh | bash
 3. ./remove.sh -f remlist.txt -d ./mods    # xóa mod lỗi/không cần thiết
-4. java -jar installer.jar                 # tải hệ thống
+4. java -jar server.jar                 # tải hệ thống
 5. chmod +x start.sh                       # bước đệm khác
 6. ./start.sh                              # chạy server
+* Bước quan trọng sau khi mở server
+=> ./playit.sh
 
 - nếu cần lưu:
 => ./git.sh

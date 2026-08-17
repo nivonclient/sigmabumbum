@@ -1,0 +1,359 @@
+[08:35:53] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.2+10-LTS; Microsoft Microsoft-13053558) on Linux 6.8.0-1052-azure (amd64)
+[08:35:53] [ServerMain/INFO]: [bootstrap] Loading Purpur 26.2-2620-HEAD@8762b2f (2026-08-09T02:33:45Z) for Minecraft 26.2
+[08:35:54] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[08:35:54] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[08:35:54] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - Chunky (1.5.3), Geyser-Spigot (2.11.1-SNAPSHOT), PatPatPlugin (1.2.5+0268419), floodgate (2.2.5-SNAPSHOT (b140-8780fa4)), voicechat (2.6.21)
+[08:36:02] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[08:36:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[08:36:04] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 2,129.2ms
+[08:36:05] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[08:36:07] [Worker-Main-1/INFO]: No existing world data, creating new world
+[08:36:09] [ServerMain/INFO]: Loaded 1585 recipes
+[08:36:09] [ServerMain/INFO]: Loaded 1688 advancements
+[08:36:09] [Server thread/INFO]: Starting minecraft server version 26.2
+[08:36:09] [Server thread/INFO]: Loading properties
+[08:36:09] [Server thread/INFO]: This server is running Purpur version 26.2-2620-HEAD@8762b2f (2026-08-09T02:33:45Z) (Implementing API version 26.2.build.2620-stable)
+[08:36:09] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[08:36:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:36:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:36:11] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[08:36:12] [Server thread/INFO]: Default game type: SURVIVAL
+[08:36:12] [Server thread/INFO]: Generating keypair
+[08:36:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:36:12] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[08:36:12] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[08:36:12] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
+[08:36:14] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[08:36:14] [Server thread/INFO]: [floodgate] Took 1,932ms to boot Floodgate
+[08:36:14] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.6.21
+[08:36:14] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.11.1-SNAPSHOT
+[08:36:15] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[08:36:15] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[08:36:15] [Server thread/INFO]: [PatPatPlugin] Loading server plugin PatPatPlugin v1.2.5+0268419
+[08:36:15] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.5.3
+[08:36:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:36:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:36:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:36:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:36:15] [Server thread/INFO]: Preparing level "world"
+[08:36:16] [Server thread/INFO]: Selecting spawn point for level 'minecraft:overworld'...
+[08:36:31] [Server thread/INFO]: Selecting spawn point for level 'minecraft:the_nether'...
+[08:36:33] [Server thread/INFO]: Selecting spawn point for level 'minecraft:the_end'...
+[08:36:34] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[08:36:34] [Server thread/INFO]: Preparing spawn area: 100%
+[08:36:34] [Server thread/INFO]: Prepared spawn area in 17743 ms
+[08:36:34] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[08:36:34] [Server thread/INFO]: Preparing spawn area: 100%
+[08:36:34] [Server thread/INFO]: Prepared spawn area in 2843 ms
+[08:36:34] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[08:36:34] [Server thread/INFO]: Preparing spawn area: 100%
+[08:36:34] [Server thread/INFO]: Prepared spawn area in 999 ms
+[08:36:34] [Server thread/INFO]: Done preparing level "world" (18.746s)
+[08:36:34] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b140-8780fa4)
+[08:36:34] [Server thread/INFO]: [voicechat] Enabling voicechat v2.6.21
+[08:36:34] [Server thread/INFO]: [voicechat] Initializing compatibility for version 26.2.build.2620-stable
+[08:36:34] [Server thread/INFO]: [voicechat] Compatibility version 20
+[08:36:34] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[08:36:34] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.11.1-SNAPSHOT
+[08:36:36] [Server thread/INFO]: [PatPatPlugin] Enabling PatPatPlugin v1.2.5+0268419
+[08:36:37] [Server thread/INFO]: [patpat-plugin] Plugin started
+[08:36:37] [Server thread/INFO]: [Chunky] Enabling Chunky v1.5.3
+[08:36:37] [Server thread/INFO]: [spark] Starting background profiler...
+[08:36:38] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:36:38] [Server thread/INFO]: [Geyser-Spigot] 
+[08:36:38] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.11.1-b1223 (git-master-85fb46f)
+[08:36:38] [Server thread/INFO]: [Geyser-Spigot] 
+[08:36:38] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:36:40] [Server thread/INFO]: [Geyser-Spigot] Registered 199 custom block overrides.
+[08:36:40] [Server thread/INFO]: [Geyser-Spigot] Registered 2 custom block item overrides.
+[08:36:40] [Server thread/INFO]: [Geyser-Spigot] Registered 7 custom blocks.
+[08:36:45] [Server thread/INFO]: [Geyser-Spigot] Registered 1 custom items
+[08:36:47] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[08:36:47] [Server thread/INFO]: [Geyser-Spigot] Done (8.696s)! Run /geyser help for help!
+[08:36:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:36:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08:36:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08:36:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:36:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:36:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:36:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:36:48] [Server thread/INFO]: Running delayed init tasks
+[08:36:48] [Server thread/INFO]: Done (57.181s)! For help, type "help"
+[08:36:48] [Server thread/INFO]: *************************************************************************************
+[08:36:48] [Server thread/INFO]: This is the first time you're starting this server.
+[08:36:48] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[08:36:48] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[08:36:48] [Server thread/INFO]: *************************************************************************************
+[08:36:48] [Server thread/INFO]: [voicechat] Loading plugins
+[08:36:48] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[08:36:48] [Server thread/INFO]: [voicechat] Initializing plugins
+[08:36:48] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[08:36:48] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[08:36:48] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[08:44:17] [User Authenticator #0/INFO]: UUID of player Duy022802 is 976fdecc-f3c6-3267-9bd8-a2ba48cf28f0
+[08:44:27] [User Authenticator #1/INFO]: UUID of player trong0228 is ee71da15-bd7d-3f80-ae0e-0760f2feb2d3
+[08:44:28] [Server thread/INFO]: trong0228 joined the game
+[08:44:29] [Server thread/INFO]: trong0228[/127.189.120.209:59071] logged in with entity id 30 at ([minecraft:overworld]368.5, 72.0, 248.5)
+[08:44:29] [Server thread/INFO]: [voicechat] Received secret request of trong0228 (20)
+[08:44:29] [Server thread/INFO]: [voicechat] Sent secret to trong0228
+[08:44:29] [Server thread/INFO]: Duy022802 joined the game
+[08:44:29] [Server thread/INFO]: Duy022802[/127.175.4.137:38717] logged in with entity id 39 at ([minecraft:overworld]374.5, 72.0, 250.5)
+[08:44:30] [Server thread/INFO]: [voicechat] Received secret request of Duy022802 (20)
+[08:44:30] [Server thread/INFO]: [voicechat] Sent secret to Duy022802
+[08:44:55] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Kurokyubi9779 (1001)
+[08:44:55] [localSession-7-2/INFO]: [Geyser-Spigot] Kurokyubi9779 (logged in as: Kurokyubi9779) has connected to the Java server
+[08:44:55] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kurokyubi9779 joined (UUID: 00000000-0000-0000-0009-01fc79725856)
+[08:44:55] [Server thread/INFO]: .Kurokyubi9779 joined the game
+[08:44:55] [Server thread/INFO]: .Kurokyubi9779[/127.155.183.94:0] logged in with entity id 217 at ([minecraft:overworld]360.5, 71.0, 256.5)
+[08:45:13] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username Leela4201 (2168)
+[08:45:13] [localSession-7-3/INFO]: [Geyser-Spigot] Leela4201 (logged in as: Leela4201) has connected to the Java server
+[08:45:14] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Leela4201 joined (UUID: 00000000-0000-0000-0009-01f3786c5ae8)
+[08:45:14] [Server thread/INFO]: .Leela4201 joined the game
+[08:45:14] [Server thread/INFO]: .Leela4201[/127.229.250.9:0] logged in with entity id 258 at ([minecraft:overworld]368.5, 72.0, 265.5)
+[08:45:23] [Async Chat Thread - #1/INFO]: [Not Secure] <Duy022802> who =)))
+[08:45:48] [Async Chat Thread - #0/INFO]: [Not Secure] <.Leela4201> viet dep trai nhat vu tru
+[08:46:09] [Async Chat Thread - #1/INFO]: [Not Secure] <.Leela4201> nay la acc be cua t
+[08:46:15] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Leela4201 disconnected
+[08:46:15] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Leela4201 has disconnected from the Java server because of Bedrock client disconnected
+[08:46:15] [Server thread/INFO]: .Leela4201 lost connection: Disconnected
+[08:46:15] [Server thread/INFO]: [voicechat] Disconnecting client .Leela4201
+[08:46:15] [Server thread/INFO]: .Leela4201 left the game
+[08:46:16] [Async Chat Thread - #1/INFO]: [Not Secure] <Duy022802> ok ok
+[08:46:48] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Kurokyubi9779 disconnected
+[08:46:48] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Kurokyubi9779 has disconnected from the Java server because of Bedrock client disconnected
+[08:46:48] [Server thread/INFO]: .Kurokyubi9779 lost connection: Disconnected
+[08:46:48] [Server thread/INFO]: [voicechat] Disconnecting client .Kurokyubi9779
+[08:46:48] [Server thread/INFO]: .Kurokyubi9779 left the game
+[08:48:33] [Server thread/INFO]: Duy022802 has made the advancement [Stone Age]
+[08:49:22] [Server thread/INFO]: Duy022802 has made the advancement [Getting an Upgrade]
+[08:49:55] [Server thread/INFO]: trong0228 has made the advancement [Stone Age]
+[08:49:59] [Server thread/INFO]: Duy022802 has made the advancement [Monster Hunter]
+[08:55:13] [User Authenticator #2/INFO]: UUID of player KaiGeats is dfaf45bb-f10b-3cc8-b104-ddd02ddfcc60
+[08:55:14] [Server thread/INFO]: KaiGeats joined the game
+[08:55:14] [Server thread/INFO]: KaiGeats[/127.26.142.89:60037] logged in with entity id 4051 at ([minecraft:overworld]376.5, 73.0, 264.5)
+[08:55:15] [Server thread/INFO]: [voicechat] Received secret request of KaiGeats (20)
+[08:55:15] [Server thread/INFO]: [voicechat] Sent secret to KaiGeats
+[08:56:10] [Server thread/INFO]: KaiGeats was slain by Zombie
+[08:56:31] [Server thread/INFO]: KaiGeats was pricked to death
+[08:58:04] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Player connected with username Leela4201 (2168)
+[08:58:04] [localSession-7-4/INFO]: [Geyser-Spigot] Leela4201 (logged in as: Leela4201) has connected to the Java server
+[08:58:04] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Leela4201 joined (UUID: 00000000-0000-0000-0009-01f3786c5ae8)
+[08:58:04] [Server thread/INFO]: .Leela4201 joined the game
+[08:58:04] [Server thread/INFO]: .Leela4201[/127.229.250.9:0] logged in with entity id 7538 at ([minecraft:overworld]363.3452, 72.0, 260.6073)
+[08:58:17] [Async Chat Thread - #2/INFO]: [Not Secure] <.Leela4201> hello ae
+[08:58:37] [Async Chat Thread - #2/INFO]: [Not Secure] <.Leela4201> toi
+[08:58:41] [Async Chat Thread - #2/INFO]: [Not Secure] <.Leela4201> sieusigna
+[08:58:46] [Async Chat Thread - #3/INFO]: [Not Secure] <.Leela4201> sigma*
+[08:58:55] [Async Chat Thread - #2/INFO]: [Not Secure] <Duy022802> signa =)))
+[08:59:04] [Async Chat Thread - #2/INFO]: [Not Secure] <.Leela4201> ae lm gi bt toi sigma co nao
+[08:59:11] [Async Chat Thread - #2/INFO]: [Not Secure] <KaiGeats> vaiz ca signa
+[08:59:29] [Async Chat Thread - #3/INFO]: [Not Secure] <.Leela4201> ae ma cu treu toi the nay
+[08:59:33] [Async Chat Thread - #3/INFO]: [Not Secure] <.Leela4201> toi bo chay day
+[08:59:34] [Async Chat Thread - #4/INFO]: [Not Secure] <Duy022802> =)))
+[08:59:39] [Async Chat Thread - #4/INFO]: [Not Secure] <KaiGeats> =)))))
+[08:59:43] [Async Chat Thread - #3/INFO]: [Not Secure] <Duy022802> chạy ngay đi =))
+[09:00:14] [Server thread/INFO]: KaiGeats was slain by .Leela4201
+[09:00:33] [Async Chat Thread - #3/INFO]: [Not Secure] <.Leela4201> co dis k duy :)))
+[09:00:54] [Async Chat Thread - #4/INFO]: [Not Secure] <Duy022802> có =))
+[09:01:03] [Async Chat Thread - #4/INFO]: [Not Secure] <.Leela4201> cho xin link
+[09:01:06] [Async Chat Thread - #4/INFO]: [Not Secure] <KaiGeats> ko
+[09:01:10] [Async Chat Thread - #4/INFO]: [Not Secure] <Duy022802> =)))
+[09:01:15] [Server thread/INFO]: trong0228 has made the advancement [Acquire Hardware]
+[09:01:19] [Async Chat Thread - #4/INFO]: [Not Secure] <Duy022802> nó trưởng nhóm
+[09:01:21] [Async Chat Thread - #4/INFO]: [Not Secure] <.Leela4201> gian ae luon
+[09:01:22] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Player connected with username Vy8458 (1001)
+[09:01:22] [localSession-7-1/INFO]: [Geyser-Spigot] Vy8458 (logged in as: Vy8458) has connected to the Java server
+[09:01:23] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Vy8458 joined (UUID: 00000000-0000-0000-0009-01f729da7744)
+[09:01:23] [Server thread/INFO]: .Vy8458 joined the game
+[09:01:23] [Server thread/INFO]: .Vy8458[/127.45.90.194:0] logged in with entity id 10461 at ([minecraft:overworld]369.5, 72.0, 264.5)
+[09:01:27] [Async Chat Thread - #4/INFO]: [Not Secure] <Duy022802> ko cãi dc =))
+[09:01:41] [Server thread/INFO]: trong0228 has made the advancement [Isn't It Iron Pick]
+[09:01:55] [Async Chat Thread - #4/INFO]: [Not Secure] <.Leela4201> nguoi ae nay
+[09:02:03] [Async Chat Thread - #3/INFO]: [Not Secure] <.Leela4201> cho toi link = dep trai, sigma, hoc gioi
+[09:02:07] [Async Chat Thread - #4/INFO]: [Not Secure] <.Vy8458> :>
+[09:02:10] [Async Chat Thread - #4/INFO]: [Not Secure] <Duy022802> =)))
+[09:02:21] [Async Chat Thread - #4/INFO]: [Not Secure] <KaiGeats> ms vo dap t la t thay ko ua r
+[09:02:23] [Async Chat Thread - #4/INFO]: [Not Secure] <.Leela4201> ko cho = alpha, beta, delta, gamma
+[09:02:46] [Async Chat Thread - #4/INFO]: [Not Secure] <.Leela4201> binh tinh bro
+[09:03:07] [Async Chat Thread - #5/INFO]: [Not Secure] <.Leela4201> đều quy luật giang hồ cả
+[09:04:47] [Async Chat Thread - #7/INFO]: [Not Secure] <KaiGeats> di nek
+[09:04:51] [Async Chat Thread - #7/INFO]: [Not Secure] <.Leela4201> con trai dk
+[09:06:57] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username Kurokyubi9779 (1001)
+[09:06:57] [localSession-7-2/INFO]: [Geyser-Spigot] Kurokyubi9779 (logged in as: Kurokyubi9779) has connected to the Java server
+[09:06:58] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kurokyubi9779 joined (UUID: 00000000-0000-0000-0009-01fc79725856)
+[09:06:58] [Server thread/INFO]: .Kurokyubi9779 joined the game
+[09:06:58] [Server thread/INFO]: .Kurokyubi9779[/127.155.183.94:0] logged in with entity id 14078 at ([minecraft:overworld]375.54834, 78.0, 301.15698)
+[09:07:21] [Server thread/INFO]: .Vy8458 suffocated in a wall
+[09:08:04] [Async Chat Thread - #8/INFO]: [Not Secure] <.Kurokyubi9779> skin bth lại rùi
+[09:08:27] [Server thread/INFO]: Duy022802 has made the advancement [Sweet Dreams]
+[09:09:33] [Server thread/INFO]: .Leela4201 was blown up by Creeper
+[09:09:49] [Server thread/INFO]: KaiGeats was shot by Parched
+[09:10:13] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .Vy8458 disconnected
+[09:10:13] [GeyserServerChild-4-4/INFO]: [Geyser-Spigot] Vy8458 has disconnected from the Java server because of Bedrock client disconnected
+[09:10:13] [Server thread/INFO]: .Vy8458 lost connection: Disconnected
+[09:10:13] [Server thread/INFO]: [voicechat] Disconnecting client .Vy8458
+[09:10:13] [Server thread/INFO]: .Vy8458 left the game
+[09:10:48] [Server thread/INFO]: KaiGeats was slain by Zombie
+[09:11:07] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username Vy8458 (1001)
+[09:11:07] [localSession-7-3/INFO]: [Geyser-Spigot] Vy8458 (logged in as: Vy8458) has connected to the Java server
+[09:11:07] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Vy8458 joined (UUID: 00000000-0000-0000-0009-01f729da7744)
+[09:11:07] [Server thread/INFO]: .Vy8458 joined the game
+[09:11:07] [Server thread/INFO]: .Vy8458[/127.45.90.194:0] logged in with entity id 17404 at ([minecraft:overworld]363.3000100119209, 62.0, 257.34595)
+[09:11:21] [Server thread/INFO]: .Kurokyubi9779 was slain by Zombie
+[09:11:40] [Server thread/INFO]: KaiGeats was slain by Husk
+[09:11:42] [Server thread/INFO]: .Kurokyubi9779 was slain by Husk
+[09:11:46] [Server thread/INFO]: .Leela4201 has made the advancement [Monster Hunter]
+[09:12:39] [Server thread/INFO]: .Kurokyubi9779 was slain by Husk
+[09:12:41] [Server thread/INFO]: .Vy8458 has made the advancement [Monster Hunter]
+[09:12:57] [Server thread/INFO]: Duy022802 has made the advancement [Acquire Hardware]
+[09:13:02] [Async Chat Thread - #10/INFO]: [Not Secure] <KaiGeats> skin bth r be
+[09:13:13] [Server thread/INFO]: .Kurokyubi9779 was slain by Husk
+[09:13:20] [Server thread/INFO]: Duy022802 has made the advancement [Isn't It Iron Pick]
+[09:13:22] [Server thread/INFO]: .Leela4201 has made the advancement [Stone Age]
+[09:13:35] [Server thread/INFO]: .Kurokyubi9779 was shot by Parched
+[09:13:41] [Server thread/INFO]: .Vy8458 was blown up by Creeper
+[09:13:48] [Server thread/INFO]: KaiGeats was blown up by Creeper
+[09:13:59] [Server thread/INFO]: .Leela4201 has made the advancement [Getting an Upgrade]
+[09:14:20] [Server thread/INFO]: .Vy8458 was speared by Husk
+[09:14:23] [Async Chat Thread - #13/INFO]: [Not Secure] <KaiGeats> h nhin bth la bth het ah
+[09:14:24] [Server thread/INFO]: KaiGeats was slain by Husk
+[09:15:02] [Async Chat Thread - #12/INFO]: [Not Secure] <KaiGeats> ik theo ah ne
+[09:15:06] [Server thread/WARN]: Duy022802 was kicked for floating too long!
+[09:15:06] [Server thread/INFO]: Duy022802 lost connection: Flying is not enabled on this server
+[09:15:06] [Server thread/INFO]: [voicechat] Disconnecting client Duy022802
+[09:15:06] [Server thread/INFO]: Duy022802 left the game
+[09:15:18] [User Authenticator #3/INFO]: UUID of player Duy022802 is 976fdecc-f3c6-3267-9bd8-a2ba48cf28f0
+[09:15:19] [Server thread/INFO]: Duy022802 joined the game
+[09:15:19] [Server thread/INFO]: Duy022802[/127.175.4.137:36977] logged in with entity id 20475 at ([minecraft:overworld]645.0617771389398, 14.775290721166538, -463.96003650370545)
+[09:15:19] [Server thread/INFO]: [voicechat] Received secret request of Duy022802 (20)
+[09:15:19] [Server thread/INFO]: [voicechat] Sent secret to Duy022802
+[09:16:33] [Server thread/INFO]: trong0228 has made the advancement [Monster Hunter]
+[09:17:26] [Async Chat Thread - #14/INFO]: [Not Secure] <KaiGeats> di nek
+[09:18:11] [Async Chat Thread - #14/INFO]: [Not Secure] <.Vy8458> h lmj
+[09:18:24] [Async Chat Thread - #14/INFO]: [Not Secure] <KaiGeats> di theo ah
+[09:18:58] [Async Chat Thread - #15/INFO]: [Not Secure] <KaiGeats> doi xiu
+[09:19:06] [Async Chat Thread - #15/INFO]: [Not Secure] <KaiGeats> ah chuyen pe ah chs
+[09:20:29] [Async Chat Thread - #17/INFO]: [Not Secure] <.Kurokyubi9779> đợi ah
+[09:20:56] [Server thread/INFO]: .Vy8458 was slain by .Kurokyubi9779
+[09:21:49] [Async Chat Thread - #18/INFO]: [Not Secure] <.Kurokyubi9779> đâu r Chuột Cưng
+[09:22:07] [Async Chat Thread - #18/INFO]: [Not Secure] <.Kurokyubi9779> skin ah bth hok
+[09:22:12] [Server thread/INFO]: .Leela4201 drowned
+[09:22:22] [Async Chat Thread - #18/INFO]: [Not Secure] <.Vy8458> ai v
+[09:22:29] [Async Chat Thread - #19/INFO]: [Not Secure] <.Kurokyubi9779> skin ah màu j
+[09:22:54] [Async Chat Thread - #18/INFO]: [Not Secure] <.Vy8458> giống v nhg lạ lắm
+[09:22:57] [Server thread/INFO]: Duy022802 has made the advancement [Suit Up]
+[09:24:05] [Async Chat Thread - #20/INFO]: [Not Secure] <.Kurokyubi9779> phải skin dpid
+[09:24:16] [Async Chat Thread - #20/INFO]: [Not Secure] <.Kurokyubi9779> phải skin spider man mà đúng hok
+[09:24:38] [Async Chat Thread - #20/INFO]: [Not Secure] <.Vy8458> ai v ah
+[09:24:46] [Async Chat Thread - #20/INFO]: [Not Secure] <.Kurokyubi9779> bn thk Duy á
+[09:24:52] [Async Chat Thread - #20/INFO]: [Not Secure] <.Kurokyubi9779> đi nè
+[09:25:01] [Server thread/INFO]: trong0228 has made the advancement [Diamonds!]
+[09:25:55] [Async Chat Thread - #22/INFO]: [Not Secure] <.Vy8458> ah í có thấy skin này ko ah
+[09:25:55] [Server thread/INFO]: .Leela4201 fell from a high place
+[09:26:03] [Async Chat Thread - #22/INFO]: [Not Secure] <.Kurokyubi9779> có dùi
+[09:26:26] [Server thread/INFO]: Duy022802 has made the advancement [Not Today, Thank You]
+[09:26:54] [GeyserServerChild-4-3/INFO]: [Geyser-Spigot] Leela4201 has disconnected from the Java server because of Bedrock client disconnected
+[09:26:54] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Leela4201 disconnected
+[09:26:54] [Server thread/INFO]: .Leela4201 lost connection: Disconnected
+[09:26:54] [Server thread/INFO]: [voicechat] Disconnecting client .Leela4201
+[09:26:54] [Server thread/INFO]: .Leela4201 left the game
+[09:27:50] [Server thread/INFO]: Duy022802 has made the advancement [Diamonds!]
+[09:28:19] [Async Chat Thread - #24/INFO]: [Not Secure] <.Vy8458> xav
+[09:28:29] [Async Chat Thread - #24/INFO]: [Not Secure] <.Kurokyubi9779> ah cx thua luôn
+[09:29:25] [User Authenticator #4/INFO]: UUID of player Sieuvietnam is 57850379-0013-34f7-940f-dee5b16d6458
+[09:29:27] [Server thread/INFO]: Sieuvietnam joined the game
+[09:29:27] [Server thread/INFO]: Sieuvietnam[/127.97.146.192:58909] logged in with entity id 29087 at ([minecraft:overworld]360.5, 72.0, 262.5)
+[09:29:42] [Server thread/INFO]: .Kurokyubi9779 has made the advancement [Monster Hunter]
+[09:29:51] [Async Chat Thread - #27/INFO]: [Not Secure] <.Vy8458> nha ah ffịnh ik đâu
+[09:29:55] [Server thread/INFO]: .Vy8458 was slain by Zombie
+[09:30:02] [Server thread/INFO]: .Kurokyubi9779 fell from a high place
+[09:30:12] [Async Chat Thread - #27/INFO]: [Not Secure] <.Kurokyubi9779> qua chố trọng
+[09:30:28] [Server thread/INFO]: .Vy8458 was speared by Husk
+[09:30:52] [Server thread/INFO]: .Kurokyubi9779 was speared by Husk
+[09:30:52] [Server thread/INFO]: Sieuvietnam lost connection: Disconnected
+[09:30:52] [Server thread/INFO]: [voicechat] Disconnecting client Sieuvietnam
+[09:30:52] [Server thread/INFO]: Sieuvietnam left the game
+[09:32:07] [Server thread/INFO]: KaiGeats was slain by Drowned
+[09:32:27] [User Authenticator #5/INFO]: UUID of player Sieuvietnam is 57850379-0013-34f7-940f-dee5b16d6458
+[09:32:29] [Server thread/INFO]: Sieuvietnam joined the game
+[09:32:29] [Server thread/INFO]: Sieuvietnam[/127.97.146.192:45417] logged in with entity id 31252 at ([minecraft:overworld]439.72370853677086, 62.60821021585556, 50.1378389946995)
+[09:32:41] [Server thread/INFO]: KaiGeats lost connection: Disconnected
+[09:32:41] [Server thread/INFO]: [voicechat] Disconnecting client KaiGeats
+[09:32:41] [Server thread/INFO]: KaiGeats left the game
+[09:32:48] [Async Chat Thread - #28/INFO]: [Not Secure] <Sieuvietnam> arnskarsa
+[09:32:49] [Async Chat Thread - #28/INFO]: [Not Secure] <Sieuvietnam> arszdcertat,se'ks
+[09:33:00] [Async Chat Thread - #28/INFO]: [Not Secure] <Sieuvietnam> sex
+[09:33:02] [Server thread/INFO]: Duy022802 lost connection: Disconnected
+[09:33:02] [Server thread/INFO]: [voicechat] Disconnecting client Duy022802
+[09:33:02] [Server thread/INFO]: Duy022802 left the game
+[09:33:03] [Async Chat Thread - #29/INFO]: [Not Secure] <Sieuvietnam> sek
+[09:33:09] [Async Chat Thread - #28/INFO]: [Not Secure] <.Vy8458> j v
+[09:33:13] [User Authenticator #6/INFO]: UUID of player Duy022802 is 976fdecc-f3c6-3267-9bd8-a2ba48cf28f0
+[09:33:13] [Server thread/INFO]: Duy022802 joined the game
+[09:33:13] [Server thread/INFO]: Duy022802[/127.175.4.137:37975] logged in with entity id 31811 at ([minecraft:overworld]679.327569753347, -31.0, -543.0447974754956)
+[09:33:14] [Server thread/INFO]: [voicechat] Received secret request of Duy022802 (20)
+[09:33:14] [Server thread/INFO]: [voicechat] Sent secret to Duy022802
+[09:33:14] [Async Chat Thread - #28/INFO]: [Not Secure] <.Kurokyubi9779> kệ mó đi
+[09:33:19] [Server thread/INFO]: Sieuvietnam lost connection: Disconnected
+[09:33:19] [Server thread/INFO]: [voicechat] Disconnecting client Sieuvietnam
+[09:33:19] [Server thread/INFO]: Sieuvietnam left the game
+[09:33:24] [User Authenticator #7/INFO]: UUID of player Sieuvietnam is 57850379-0013-34f7-940f-dee5b16d6458
+[09:33:25] [Server thread/INFO]: Sieuvietnam joined the game
+[09:33:25] [Server thread/INFO]: Sieuvietnam[/127.97.146.192:49953] logged in with entity id 32066 at ([minecraft:overworld]459.43548204706, 61.25773702509655, -66.40516366014423)
+[09:33:33] [Async Chat Thread - #29/INFO]: [Not Secure] <.Kurokyubi9779> đi nè
+[09:33:49] [Async Chat Thread - #28/INFO]: [Not Secure] <.Vy8458> e konik nx âu
+[09:34:03] [Async Chat Thread - #29/INFO]: [Not Secure] <.Kurokyubi9779> dị thoi dìa map mik chs
+[09:34:11] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Kurokyubi9779 disconnected
+[09:34:11] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Kurokyubi9779 has disconnected from the Java server because of Bedrock client disconnected
+[09:34:11] [Server thread/INFO]: .Kurokyubi9779 lost connection: Disconnected
+[09:34:11] [Server thread/INFO]: [voicechat] Disconnecting client .Kurokyubi9779
+[09:34:11] [Server thread/INFO]: .Kurokyubi9779 left the game
+[09:34:38] [Async Chat Thread - #29/INFO]: [Not Secure] <.Vy8458> hoi e chịu
+[09:35:55] [Server thread/INFO]: Sieuvietnam has made the advancement [Monster Hunter]
+[09:36:25] [Server thread/INFO]: .Vy8458 was slain by Zombie
+[09:36:52] [Server thread/INFO]: trong0228 has made the advancement [Suit Up]
+[09:37:21] [Server thread/INFO]: .Vy8458 drowned
+[09:38:14] [Server thread/INFO]: Sieuvietnam has made the advancement [Stone Age]
+[09:38:29] [Server thread/INFO]: Sieuvietnam has made the advancement [Getting an Upgrade]
+[09:38:32] [Server thread/INFO]: Duy022802 has made the advancement [Cover Me with Diamonds]
+[09:38:48] [Server thread/INFO]: .Vy8458 drowned
+[09:38:49] [Async Chat Thread - #30/INFO]: [Not Secure] <Sieuvietnam> sibaaaaaaaaaaaaa
+[09:39:01] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Vy8458 disconnected
+[09:39:01] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Vy8458 has disconnected from the Java server because of Bedrock client disconnected
+[09:39:01] [Server thread/INFO]: .Vy8458 lost connection: Disconnected
+[09:39:01] [Server thread/INFO]: [voicechat] Disconnecting client .Vy8458
+[09:39:01] [Server thread/INFO]: .Vy8458 left the game
+[09:41:54] [Server thread/INFO]: trong0228 has made the advancement [Cover Me with Diamonds]
+[09:42:15] [Server thread/INFO]: Sieuvietnam has made the advancement [Acquire Hardware]
+[09:42:38] [Server thread/INFO]: Duy022802 has made the advancement [Minecraft: Trial(s) Edition]
+[09:46:06] [Server thread/INFO]: Duy022802 has made the advancement [Under Lock and Key]
+[09:49:52] [Server thread/INFO]: Sieuvietnam has made the advancement [A Seedy Place]
+[09:54:14] [Server thread/INFO]: Sieuvietnam was slain by Drowned
+[09:54:28] [Server thread/INFO]: Sieuvietnam lost connection: Disconnected
+[09:54:28] [Server thread/INFO]: [voicechat] Disconnecting client Sieuvietnam
+[09:54:28] [Server thread/INFO]: Sieuvietnam left the game
+[10:00:39] [Server thread/INFO]: trong0228 has made the advancement [Getting an Upgrade]
+[10:05:00] [Server thread/INFO]: trong0228 has made the advancement [Minecraft: Trial(s) Edition]
+[10:10:13] [Server thread/INFO]: Duy022802 has made the advancement [Take Aim]
+[10:14:19] [Server thread/INFO]: Duy022802 has reached the goal [Revaulting]
+[10:14:45] [Server thread/INFO]: trong0228 has reached the goal [Revaulting]
+[10:16:15] [Server thread/INFO]: trong0228 has made the advancement [Not Today, Thank You]
+[10:45:37] [Server thread/INFO]: Duy022802 lost connection: Disconnected
+[10:45:37] [Server thread/INFO]: [voicechat] Disconnecting client Duy022802
+[10:45:37] [Server thread/INFO]: Duy022802 left the game
+[11:20:18] [Server thread/INFO]: There are 1 of a max of 20 players online: trong0228
+[11:29:18] [Server thread/INFO]: trong0228 drowned
+[11:31:34] [Server thread/INFO]: Gave 1 [Diamond] to trong0228
+[11:35:50] [Server thread/INFO]: Villager Villager['Nitwit'/62380, uuid='fd7cdac4-8a35-4673-a2f1-6bdce91b7c42', l='ServerLevel[world]', x=616.52, y=66.00, z=-408.68, cpos=[38, -26], tl=4795, v=true] died, message: 'Nitwit was slain by Zombie'
+[11:51:21] [Server thread/INFO]: trong0228 has made the advancement [Sweet Dreams]
+[12:09:25] [Server thread/INFO]: Villager Villager['Leatherworker'/62238, uuid='6fe69d14-18a2-437d-b251-4911566afd66', l='ServerLevel[world]', x=650.87, y=70.00, z=-437.26, cpos=[40, -28], tl=45241, v=true] died, message: 'Leatherworker was slain by Zombie'
+[12:11:44] [Server thread/INFO]: trong0228 has made the advancement [Ice Bucket Challenge]
+[12:26:51] [Server thread/INFO]: Villager Villager['Leatherworker'/62347, uuid='addde17b-b81a-4a57-9b33-fe960923a55f', l='ServerLevel[world]', x=593.52, y=72.00, z=-365.70, cpos=[37, -23], tl=66059, v=true] died, message: 'Leatherworker was slain by Zombie'
+[12:26:56] [Server thread/INFO]: Villager Villager['Farmer'/62326, uuid='1b5b55a3-c24b-4438-997c-adba5820c18c', l='ServerLevel[world]', x=612.92, y=69.00, z=-354.93, cpos=[38, -23], tl=66214, v=true] died, message: 'Farmer was slain by Zombie'
+[13:04:13] [Server thread/INFO]: Villager Villager['Nitwit'/62324, uuid='117a7b11-2da6-4617-a749-d64fa559c026', l='ServerLevel[world]', x=605.30, y=72.25, z=-371.76, cpos=[37, -24], tl=110954, v=true] died, message: 'Nitwit was slain by Zombie'
+[13:40:21] [Server thread/INFO]: trong0228 has made the advancement [A Seedy Place]
+[13:44:17] [Server thread/WARN]: trong0228 moved too quickly! -8.57437500741662,1.0,-5.115407874401967
+[14:21:50] [Server thread/INFO]: trong0228 lost connection: Disconnected
+[14:21:50] [Server thread/INFO]: [voicechat] Disconnecting client trong0228
+[14:21:50] [Server thread/INFO]: trong0228 left the game
