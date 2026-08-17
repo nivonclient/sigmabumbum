@@ -288,3 +288,15 @@ WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
 [13:23:51 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [13:23:51 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
 [13:23:51 INFO]: Saved the game
+[13:24:02 INFO]: Automatic saving is now enabled
+[13:25:45 INFO]: DeX_The_Adudu has made the advancement [38;2;85;255;85m[Stone Age][0m
+[13:27:01 INFO]: trong0228 was doomed to fall by Phantom
+[13:27:15 INFO]: DeX_The_Adudu has made the advancement [38;2;85;255;85m[Ice Bucket Challenge][0m
+[13:27:15 INFO]: DeX_The_Adudu has made the advancement [38;2;85;255;85m[Acquire Hardware][0m
+[13:29:02 INFO]: Automatic saving is now disabled
+[13:29:02 INFO]: Saving the game (this may take a moment!)
+[13:29:03 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:29:03 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:29:03 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:29:03 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:29:03 INFO]: Saved the game
