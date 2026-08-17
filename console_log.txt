@@ -93,3 +93,11 @@ WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
 [09:54:33 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [09:54:33 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
 [09:54:33 INFO]: Saved the game
+[09:54:40 INFO]: Automatic saving is now enabled
+[09:59:40 INFO]: Automatic saving is now disabled
+[09:59:40 INFO]: Saving the game (this may take a moment!)
+[09:59:40 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:59:40 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:59:40 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:59:40 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:59:40 INFO]: Saved the game
