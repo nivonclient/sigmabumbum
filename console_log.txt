@@ -132,3 +132,12 @@ WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
 [12:50:37 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
 [12:50:37 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
 [12:50:37 INFO]: Saved the game
+[12:51:04 INFO]: Automatic saving is now enabled
+[12:56:04 INFO]: Automatic saving is now disabled
+[12:56:04 INFO]: Saving the game (this may take a moment!)
+[12:56:06 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:56:06 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:56:06 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:56:06 INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:56:06 INFO]: Saved the game
+[12:56:06 WARN]: trong0228 moved too quickly! -4.257972521901934,-1.0,12.566371934589142
